@@ -6,6 +6,26 @@
   margin: 0 auto 0;
 }
 
+.contain-card{
+
+  /*background-image: url('../imagenes/tarjetabawnet.png');
+  padding: 100px;
+  margin: 100px;*/
+  background-image: url('./imagenes/tarjetabawnet.png');
+  padding: 15%;
+  margin: 0;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x:center;
+  background-position-y: center;
+}
+
+
+
+
+
+
+
 .Welcome{
   display:block;
   justify-content: center;
