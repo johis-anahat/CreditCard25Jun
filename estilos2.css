@@ -1,0 +1,32 @@
+.header{
+  background: whithe;
+  padding: 10px;
+  overflow: hidden;
+}
+
+
+.Ayuda button{
+  float: left;
+  display: block;
+  color: white;
+  padding: 10px 30px;
+  width: 200px;
+  margin: 10px auto 0;
+  background: #8A2BE2;
+  border: 1px solid #8A2BE2;
+  box-sizing: border-box;
+  border-radius: 100px
+}
+
+.Salir button{
+  float: right;
+  display: block;
+  color: white;
+  padding: 10px 30px;
+  width: 200px;
+  margin: 10px auto 0;
+  background: #8A2BE2;
+  border: 1px solid #8A2BE2;
+  box-sizing: border-box;
+  border-radius: 100px
+}
