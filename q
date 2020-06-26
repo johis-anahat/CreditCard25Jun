@@ -1,0 +1,24 @@
+[33mcommit 2c22f0603c3f30b16505bea81cb1dc0e8647ee5f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: fa4436c 524a03a
+Author: Johana Sanguino <jasanguinof@correo.udistrital.edu.co>
+Date:   Fri Jun 26 00:07:05 2020 -0500
+
+    Se fusiona GIT y GITHUB
+
+[33mcommit 524a03ada45e0610c74d36f96a3d117badf4b7d3[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Johis Anahat <65880100+johis-anahat@users.noreply.github.com>
+Date:   Thu Jun 25 23:56:54 2020 -0500
+
+    Initial commit
+
+[33mcommit fa4436c5b601ec71966100546e9a1e07cff99ed9[m
+Author: Johana Sanguino <jasanguinof@correo.udistrital.edu.co>
+Date:   Thu Jun 25 23:44:31 2020 -0500
+
+    Se adicionan stilos CSS a interfaz de incio Intro
+
+[33mcommit 210cf87749a813a2b3bef8c80a4d37d5ef599b84[m
+Author: Johana Sanguino <jasanguinof@correo.udistrital.edu.co>
+Date:   Thu Jun 25 23:36:43 2020 -0500
+
+    Inicio proyecto credit card interfaz de inicio HTML y CSS
