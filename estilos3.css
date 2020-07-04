@@ -58,6 +58,38 @@ color: #000000;
   margin: 0 auto 0;
 }
 
+/*
+.Validation input{
+  border-color: gray;
+  border-style: solid;
+  border-radius: 5px;
+   display: block;
+  color: black;
+  padding: 10px 50px;
+  margin: 120px auto 0;
+    <input type="text"  id="cardNumber" placeholder= "Número de tú tarjeta">
+}*/
+
+.contain-card input{
+
+   display: block;
+  color: black;
+  margin: 20px auto 0;
+  width: 200px;
+  height: 44px;
+  left: 123px;
+  top: 202px;
+  background: #8A2BE2;
+  border: 1px solid #8A2BE2;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+input{
+text-align: center;
+}
+
+
 
 .bawnet-logo{
 
